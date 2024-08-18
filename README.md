@@ -13,7 +13,7 @@
 <td>
 <p>
     <a href="https://summerofcode.withgoogle.com" target="_blank">
-      <img width="400px" height="400px" src="Images/gsoc11.jpg"></a>
+      <img width="500px" height="400px" src="Images/gsoc11.jpg"></a>
   </p>
       </tr>
         </td>
