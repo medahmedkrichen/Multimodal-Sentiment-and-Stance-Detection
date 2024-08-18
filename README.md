@@ -1,6 +1,17 @@
 # <div align="center">Multimodal Sentiment and Stance Detection</div>
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Multimodal+Sentiment+and+Stance+Detection)
+![Project Banner](
+
+<div align="center">
+  <p>
+    <a href="https://www.redhenlab.org" target="_blank">
+      <img width="100%" src="Images/redhenlabimage.png"></a>
+  </p>
+
+
+<div>
+
+)
 
 ## Table of Contents
 - [Introduction](#introduction)
