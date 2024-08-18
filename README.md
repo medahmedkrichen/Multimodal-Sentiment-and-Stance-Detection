@@ -7,13 +7,13 @@
       <td>
   <p>
     <a href="https://www.redhenlab.org" target="_blank">
-      <img width="200px" height="200px" src="Images/redhenlabimage.png"></a>
+      <img width="500px" height="500px" src="Images/redhenlabimage.png"></a>
   </p>
     </td>  
 <td>
 <p>
     <a href="https://summerofcode.withgoogle.com" target="_blank">
-      <img width="200px" height="200px" src="Images/gsoc11.jpg"></a>
+      <img width="500px" height="500px" src="Images/gsoc11.jpg"></a>
   </p>
       </tr>
         </td>
