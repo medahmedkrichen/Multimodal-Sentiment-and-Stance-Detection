@@ -10,7 +10,7 @@
       <img width="200px" height="200px" src="Images/redhenlabimage.png"></a>
   </p>
       
-        <td>
+<td>
 <p>
     <a href="https://summerofcode.withgoogle.com" target="_blank">
       <img width="200px" height="200px" src="Images/gsoc11.jpg"></a>
