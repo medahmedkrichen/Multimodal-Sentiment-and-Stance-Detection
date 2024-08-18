@@ -41,7 +41,6 @@ After running the analysis, a new file with a name starting with Bias_Results wi
 ## License
 MIT License
 
-Copyright (c) 2019-2024 Othneil Drew
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
