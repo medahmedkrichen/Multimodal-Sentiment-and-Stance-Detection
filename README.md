@@ -5,7 +5,7 @@
 <div align="center">
   <p>
     <a href="https://www.redhenlab.org" target="_blank">
-      <img width="100%" height="20%" src="Images/redhenlabimage.png"></a>
+      <img width="50px" height="50px" src="Images/redhenlabimage.png"></a>
   </p>
 
 
