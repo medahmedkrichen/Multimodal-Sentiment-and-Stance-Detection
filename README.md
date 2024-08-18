@@ -7,7 +7,10 @@
     <a href="https://www.redhenlab.org" target="_blank">
       <img width="200px" height="200px" src="Images/redhenlabimage.png"></a>
   </p>
-
+<p>
+    <a href="https://summerofcode.withgoogle.com" target="_blank">
+      <img width="200px" height="200px" src="Images/gsoc11.jpg"></a>
+  </p>
 
 <div>
 
