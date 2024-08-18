@@ -33,3 +33,8 @@ To run the analysis, execute the following command in the terminal:
 
 ```bash
 sbatch template_segmentation.slurm "Gun Control"
+```
+
+
+## Results
+After running the analysis, a new file with a name starting with Bias_Results will be created. This file contains the results of the bias analysis for each individual speaker, the global speaker, and the host (if found).
