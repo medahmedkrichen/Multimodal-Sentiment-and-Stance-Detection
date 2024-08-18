@@ -2,6 +2,6 @@
 
 ## <div align="left">Utilisation Guide 🚀</div>
 
-```bash template_segmentation.slurm "Gun Control"
-sbacth 
+```bash 
+sbacth template_segmentation.slurm "Gun Control"
 ```
