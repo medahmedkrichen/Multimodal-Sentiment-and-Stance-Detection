@@ -1,0 +1,14 @@
+Video Title: 
+Videos/Hear CNNs Jake Tapper press Florida lawmaker on gun control.mp4
+Individual Assisemnts: 
+[{'role': 'assistant', 'content': '{"speaker": "SPEAKER_00", "conversation_topic": "Red Flag Laws", "Orientation": "Against"}'}, {'role': 'assistant', 'content': '{"speaker": "SPEAKER_01", "conversation_topic": "Red Flag Laws", "Orientation": "With"}'}, {'role': 'assistant', 'content': '{"speaker": "HOST", "conversation_topic": "Red Flag Laws", "Orientation": "Against"}'}]
+Global Assisemnts: 
+{'role': 'assistant', 'content': '{"conversation_topic": "Red Flag Laws", "Orientation": "Against"}'}
+ 
+Video Title: 
+Videos/merge.mp4
+Individual Assisemnts: 
+[{'role': 'assistant', 'content': '{"speaker": "SPEAKER_02", "conversation_topic": "Gun Control", "Orientation": "Against"}'}, {'role': 'assistant', 'content': '{"speaker": "HOST", "conversation_topic": "Gun Control", "Orientation": "With"}'}, {'role': 'assistant', 'content': '{"speaker": "SPEAKER_00", "conversation_topic": "Gun Control", "Orientation": "With"}'}]
+Global Assisemnts: 
+{'role': 'assistant', 'content': '{\n"conversation_topic": "Gun Control",\n"Orientation": "Against"\n}'}
+ 
