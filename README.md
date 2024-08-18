@@ -7,7 +7,7 @@
       <td>
   <p>
     <a href="https://www.redhenlab.org" target="_blank">
-      <img width="400px" height="300px" src="Images/redhenlabimage.png"></a>
+      <img width="300px" height="300px" src="Images/redhenlabimage.png"></a>
   </p>
     </td>  
 <td>
