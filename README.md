@@ -2,15 +2,22 @@
 
 
 <div align="center">
+  <table>
+    <tr>
+      
   <p>
     <a href="https://www.redhenlab.org" target="_blank">
       <img width="200px" height="200px" src="Images/redhenlabimage.png"></a>
   </p>
+      
+        <td>
 <p>
     <a href="https://summerofcode.withgoogle.com" target="_blank">
       <img width="200px" height="200px" src="Images/gsoc11.jpg"></a>
   </p>
-
+      </tr>
+        </td>
+</table>
 </div>
 
 
