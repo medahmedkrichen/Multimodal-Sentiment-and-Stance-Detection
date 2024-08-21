@@ -22,7 +22,7 @@ from transformers import (
 )
 
 
-login(token="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")
+login(token="API key here!")
 
 video_file = "orginal_video.mp4"
 
@@ -71,7 +71,7 @@ video = VideoFileClip(video_file)
 
 pipeline = Pipeline.from_pretrained(
   "pyannote/speaker-diarization-3.1",
-  use_auth_token="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")
+  use_auth_token="API key here!")
 
 pipeline.to(torch.device("cuda"))
 # apply the pipeline to an audio file
@@ -265,7 +265,7 @@ model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
 pipeline = transformers.pipeline(
     "text-generation",
     model=model_id,
-    token="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",
+    token="API key here!",
     model_kwargs={"torch_dtype": torch.bfloat16},
     device_map="auto",
 )
