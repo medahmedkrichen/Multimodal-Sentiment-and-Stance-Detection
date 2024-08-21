@@ -21,7 +21,7 @@ import transformers
 import json
 torch.random.manual_seed(0)
 
-login(token="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")
+login(token="API key here!")
 
 
 video_file = sys.argv[2]
@@ -130,7 +130,7 @@ model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
 pipeline = transformers.pipeline(
     "text-generation",
     model=model_id,
-    token="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",
+    token="API key here!",
     model_kwargs={"torch_dtype": torch.bfloat16},
     device_map="auto",
 )
